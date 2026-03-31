@@ -50,7 +50,7 @@ CUSTOMER-BEHAVIOUR-ANALYSIS/
 ---
 
 ## 📷 Dashboard Preview
-![Customer Behaviour Dashboard](images/dashboard.png)
+![Customer Behaviour Dashboard](https://github.com/ojhavaibhav15/CUSTOMER-BEHAVIOR-ANALYSIS/blob/main/4-costumer%20behaviour%20dashboard.png?raw=true)
 
 ---
 
